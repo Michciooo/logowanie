@@ -1,0 +1,15 @@
+.button{
+    font: inherit;
+    border:1px solid darkviolet;
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    background-color:purple;
+    color: aliceblue;
+    padding: 10px;
+    cursor: pointer;
+    align-items: center;
+}
+.button:hover{
+    background-color: blue;
+    color: wheat;
+}

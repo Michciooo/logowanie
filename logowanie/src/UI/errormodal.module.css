@@ -1,0 +1,19 @@
+.backdrop{
+    background-color: rgba(rgb(0, 255, 85), rgb(71, 204, 71),black,0.25);
+    float: right;
+}
+.modal{
+    height: 300px;
+    width: 300px;
+    overflow: hidden;
+    flex-direction: column;
+}
+.header{
+    color: white;
+
+}
+.content{
+    padding: 1rem;
+    display: flex;
+    justify-content: flex-start;
+}

@@ -1,0 +1,8 @@
+.card{
+    background: black;
+    border-radius: 30px;
+    color: aliceblue;
+    font-size: 105%;
+    align-items: center;
+    flex-direction: inherit;
+}
